@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.relogio{
+    background-color: brown;
+    width: 400px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+
+.relogio2{
+    background-color: yellow;
+}
+
+button {
+    position: absolute;
+    right: 50%;
+    transform: translateX(414%);
+}
